@@ -1,1 +1,1 @@
-packages/next/README.md
+Common hub for all of your social media platforms
